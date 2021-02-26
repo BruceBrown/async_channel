@@ -1,0 +1,12 @@
+[package]
+name = "async_channel"
+version = "0.1.0"
+authors = ["Bruce Brown <brown.bruce1207@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/BruceBrown/async_channel"
+description = "example of async channel and different executor models"
+
+[dependencies]
+smol = "1.2"
